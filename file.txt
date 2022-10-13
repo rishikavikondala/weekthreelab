@@ -1,3 +1,3 @@
 This is a git repo
-Today is Thursday
+Create conflict
 UW football game on Saturday
